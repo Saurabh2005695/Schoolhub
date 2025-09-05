@@ -1,5 +1,5 @@
 **STEPS TO RUN WEBSITE LOCALLY**
-1. git clone "https://github.com/kashish2210/python-project.git"
+1. git clone "https://github.com/Saurabh2005695/python-project.git"
 2. python -m venv venv #creating virtual environment
 3. venv/scripts/activate
 4. pip install -r reqirements.txt #hoping u will have python in your pc
