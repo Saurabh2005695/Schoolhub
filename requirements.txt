@@ -1,0 +1,8 @@
+flask
+gunicorn
+uvicorn
+Flask-WTF
+email_validator
+Flask-Bootstrap
+flask-mail
+whitenoise
